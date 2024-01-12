@@ -7,7 +7,7 @@ Each shop has its unique menu items, i.e. `Shop` to `Menu Item` is a bidirection
 
 # How to Compile and Run
 `cd` to this project home directory, where pom.xml is located
-* Application starts after excuting the file `ShoppingApplication.java`
+* Application starts after executing the file `ShoppingApplication.java`
 
 
 # Technology used
