@@ -12,7 +12,7 @@ Each shop has its unique menu items, i.e. `Shop` to `Menu Item` is a bidirection
 
 # Technology used
 * Spring Boot with Java 21
-* Hibernate JPA
+* Hibernate 
 * Spring JPA
 * Maven
 * H2 embedded in-memory database with its SQL Dialect for inserting initial data (just for testing purpose).
