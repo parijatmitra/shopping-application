@@ -34,7 +34,7 @@ public class ShopService {
         }
         return shopRepository.save(shop);
     }
-
+    //git
     public void deleteShop(int shopId) {
        shopRepository.deleteById(shopId);
     }
